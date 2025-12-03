@@ -11,7 +11,7 @@ A beautiful [Vicinae](https://github.com/vicinaehq/vicinae) extension for managi
 — Apply themes and wallpapers instantly \
 — Filter by type (Themes / Wallpapers / All) \
 — Pin your favorite wallpaper as default \
-— Scans all theme directories automatically \
+— Scans all theme directories automatically
 
 ## Theme Locations
 
