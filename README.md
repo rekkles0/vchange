@@ -1,19 +1,19 @@
-# 🎨 Omarchy Theme & Wallpaper Changer
+# Omarchy Theme & Wallpaper Changer
 
 A beautiful [Vicinae](https://github.com/vicinaehq/vicinae) extension for managing your Omarchy themes and wallpapers with style.
 
 ![Vicinae Extension](https://img.shields.io/badge/Vicinae-Extension-6366f1?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
-## ✨ Features
+## Features
 
-- **🖼️ Visual Grid** — Browse themes and wallpapers in a beautiful grid layout
-- **⚡ Quick Switch** — Apply themes and wallpapers instantly
-- **🔍 Smart Search** — Filter by type (Themes / Wallpapers / All)
-- **📍 Set Defaults** — Pin your favorite wallpaper as default
-- **🔄 Multi-Source** — Scans all theme directories automatically
+— Browse themes and wallpapers in a beautiful grid layout
+— Apply themes and wallpapers instantly
+— Filter by type (Themes / Wallpapers / All)
+— Pin your favorite wallpaper as default
+— Scans all theme directories automatically
 
-## 📂 Theme Locations
+## Theme Locations
 
 The extension searches for themes in:
 
@@ -29,7 +29,7 @@ Wallpapers are loaded from the current theme:
 ~/.config/omarchy/current/theme/backgrounds/
 ```
 
-## 🚀 Installation
+## Installation
 
 1. Clone this repository
 2. Install dependencies:
@@ -42,7 +42,7 @@ Wallpapers are loaded from the current theme:
    ```
 4. The extension will be available in Vicinae
 
-## 🛠️ Development
+## Development
 
 ```bash
 # Hot-reload development
@@ -54,16 +54,6 @@ npm run lint
 # Format code
 npm run format
 ```
-
-## ⌨️ Keyboard Shortcuts
-
-| Action | Shortcut |
-|--------|----------|
-| Apply Theme/Wallpaper | `Enter` |
-| Set as Default | `Cmd + D` |
-| Open in File Manager | `Cmd + O` |
-| Copy Path | `Cmd + Shift + C` |
-| Refresh | `Cmd + R` |
 
 ## 📝 Adding Theme Previews
 
